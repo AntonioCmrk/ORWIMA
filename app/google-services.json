@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "614699048984",
+    "firebase_url": "https://card-attributes-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "card-attributes",
+    "storage_bucket": "card-attributes.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:614699048984:android:d63afd408784006a7f636d",
+        "android_client_info": {
+          "package_name": "com.example.rushroyaleapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "614699048984-golt4i5hifg3r0ina4be1vfs558656gr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBq5OxI0v_0m9DgkKR-Eun2A29Hz7261Ig"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "614699048984-golt4i5hifg3r0ina4be1vfs558656gr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

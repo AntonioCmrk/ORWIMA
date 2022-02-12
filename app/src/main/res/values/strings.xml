@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">RushRoyaleHelper</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="CardList">Card List</string>
+    <string name="DeckBuilder">Deck Builder</string>
+    <string name="Back">Back</string>
+    <string name="Choose">Choose</string>
+    <string name="RushRoyaleLogo">RushRoyaleLogo</string>
+    <string name="icon">icon</string>
+    <string name="line">Line</string>
+    <string name="cardImage">Card Image</string>
+    <string name="name">Name</string>
+    <string name="faction">Faction</string>
+    <string name="untType">Unt Type</string>
+    <string name="target">Target</string>
+    <string name="damage">Damage</string>
+    <string name="startScreen">Start Screen</string>
+</resources>
